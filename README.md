@@ -14,7 +14,7 @@ I enjoy exploring technology, building projects, and turning ideas into reality 
 ### 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,python,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ---
