@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm Vishesh Sachdeva 👋
 
-<!--
-**vishesh-515/vishesh-515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Developer | 🎓 College Student | 🚀 Tech Enthusiast
 
-Here are some ideas to get you started:
+I enjoy exploring technology, building projects, and turning ideas into reality through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning programming and web development
+- 💡 Interested in software development and innovative solutions
+- 🛠️ Building projects to improve my technical skills
+- 🤝 Open to collaborating on projects and hackathons
+
+---
+
+### 🧰 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,python,git,github,vscode" alt="Tech Stack" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/vishesh-515">
+    <img src="https://img.shields.io/badge/GitHub-vishesh--515-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/vishesh-sachdeva-ab26aa425/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
