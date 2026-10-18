@@ -1,27 +1,22 @@
-<h1 align="center">Hi, I'm Vishesh Sachdeva</h1>
-<p align="center">
+<h1 align="center">Hi, I'm Vishesh Sachdeva</h1><p align="center">
 First-Year College Student | Aspiring Software Developer
-</p>
-<p align="center">
-Software Development • Web Technologies • AI-Assisted Development
-</p>
-<p align="center">
-Python • SQL • MySQL • HTML • CSS • Git/GitHub
+</p><p align="center">
+Python • SQL • Web Development • AI-Assisted Development
 </p>---
 
 About Me
 
-I'm a first-year college student passionate about software development, problem-solving, and exploring emerging technologies. I enjoy turning ideas into practical solutions by building projects and learning new tools.
+I'm a first-year college student passionate about software development, technology, and solving real-world problems through practical solutions.
 
-I'm developing my programming and web development skills while exploring databases, AI-assisted development, and prompt engineering. I value teamwork, creative thinking, communication, and continuous improvement, and I'm eager to contribute to meaningful projects.
+I enjoy building websites, exploring programming concepts, and using modern development tools to turn ideas into functional projects. I'm continuously improving my technical skills through hands-on projects, experimentation, and collaborative learning.
 
 Currently exploring:
 
 - Python Programming & Problem-Solving
-- SQL & Database Management
 - Web Development with HTML & CSS
+- SQL & Database Management
+- Git & GitHub for Version Control
 - AI-Assisted Development & Prompt Engineering
-- Git, GitHub & Collaborative Development
 
 ---
 
@@ -37,19 +32,15 @@ Web Development
 
 Databases
 
-"MySQL"
+"MySQL" "SQL"
 
 Tools & Development
 
-"Git" "GitHub" "AI-Assisted Development"
+"Git" "GitHub" "Google Antigravity" "Claude"
 
-AI Tools
+AI-Assisted Development
 
-"Claude" "Google Antigravity" "Prompt Engineering"
-
-Professional Skills
-
-"Problem-Solving" "Teamwork" "Communication" "Leadership" "Time Management" "Creative Thinking" "Event Coordination" "Adaptability"
+"AI Tools" "Prompt Engineering" "Vibe Coding"
 
 ---
 
@@ -57,41 +48,44 @@ Featured Projects
 
 🦷 Elite Dental Clinic – Dental Clinic Website
 
-- Developed a website to establish a digital presence for a dental clinic.
-- Organized information about dental treatments, the doctor, and clinic facilities.
-- Included appointment enquiries, patient testimonials, and a treatment gallery.
-- Focused on presenting clinic information through a professional, user-friendly website.
+- Developed a professional website for a dental clinic.
+- Organized clinic information, dental treatments, and patient-facing content.
+- Focused on clean presentation, user-friendly navigation, and a professional online presence.
+- Worked on presenting services and appointment-related information clearly.
+
+🔗 Live Website:
+https://www.elitedentalclinic.info/
 
 🔗 Repository:
 https://github.com/vishesh-515/elite-dental-clinic
 
-🌐 Live Website:
-https://www.elitedentalclinic.info/
+---
+
+Professional Skills
+
+"Teamwork" "Problem-Solving" "Communication" "Leadership"
+
+"Time Management" "Creative Thinking" "Event Coordination" "Adaptability"
 
 ---
 
-Leadership Experience
+Currently Learning
 
-Teamwork & Collaboration
-
-Value collaborative problem-solving, clear communication, and contributing effectively toward shared goals.
-
-Event Coordination & Leadership
-
-Interested in coordinating activities, taking responsibility, and developing leadership skills through collaborative projects and technical events.
-
----
-
-Certifications
-
-Currently focused on strengthening technical skills through practical learning, project development, and continuous improvement.
+- Strengthening Python programming and logical thinking
+- Improving frontend development skills
+- Practicing SQL queries and database concepts
+- Building practical projects and improving development workflows
+- Exploring AI-assisted tools for faster prototyping and development
 
 ---
 
 Connect With Me
 
-💻 GitHub: https://github.com/vishesh-515
+💻 GitHub:
+https://github.com/vishesh-515
 
-💼 LinkedIn: https://www.linkedin.com/in/vishesh-sachdeva-ab26aa425/
+💼 LinkedIn:
+https://www.linkedin.com/in/vishesh-sachdeva-ab26aa425/
 
-🌐 Portfolio / Work: https://www.elitedentalclinic.info/
+🌐 Project Website:
+https://www.elitedentalclinic.info/
