@@ -12,8 +12,6 @@
   Python • HTML • CSS • SQL • MySQL
 </p>
 
-<hr>
-
 ---
 
 ## About Me
