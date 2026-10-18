@@ -96,7 +96,7 @@ Currently focused on building technical skills through practical learning and pr
 Connect With Me
 
 - GitHub: "vishesh-515" (https://github.com/vishesh-515)
-- LinkedIn: Add your existing LinkedIn profile URL here
+- LinkedIn: https://www.linkedin.com/in/vishesh-sachdeva-ab26aa425/
 - Portfolio: "Elite Dental Clinic" (https://www.elitedentalclinic.info/)
 
 ---
