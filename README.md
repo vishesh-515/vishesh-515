@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vishesh Sachdeva</h1>
 
 <p align="center">
-  First-Year Computer Science & Engineering Student @ Thapar
+  First-Year Computer Science & Engineering Student
 </p>
 
 <p align="center">
