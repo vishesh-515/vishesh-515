@@ -1,10 +1,18 @@
-# Hi, I'm Vishesh Sachdeva
+<h1 align="center">Hi, I'm Vishesh Sachdeva</h1>
 
-First-Year Computer Science & Engineering Student @ Thapar
+<p align="center">
+  First-Year Computer Science & Engineering Student @ Thapar
+</p>
 
-Aspiring Software Developer • Web Development & AI/ML Enthusiast
+<p align="center">
+  Aspiring Software Developer • Web Development & AI/ML Enthusiast
+</p>
 
-Python • HTML • CSS • SQL • MySQL
+<p align="center">
+  Python • HTML • CSS • SQL • MySQL
+</p>
+
+<hr>
 
 ---
 
@@ -76,22 +84,6 @@ and appointment enquiries.
 🔗 **Repository:** [Elite Dental Clinic](https://github.com/vishesh-515/elite-dental-clinic)
 
 🌐 **Live Website:** [elitedentalclinic.info](https://www.elitedentalclinic.info/)
-
----
-
-### 🤖 Jarvis-AI — Personal Assistant Project
-
-A Python-based assistant project featuring an intent-classification
-neural network and modular task-execution functionality.
-
-- Implemented a neural network for classifying user intents.
-- Used natural language processing for text tokenization and stemming.
-- Organized task execution into separate modules.
-- Included a WhatsApp messaging component.
-
-**Technologies:** Python, PyTorch, NLTK, NumPy
-
-🔗 **Repository:** [Jarvis-AI](https://github.com/vishesh-515/Jarvis-AI)
 
 ---
 
