@@ -16,8 +16,7 @@
 
 ## About Me
 
-I'm a first-year Computer Science and Engineering student at
-Thapar with a strong interest in software development, problem-solving,
+I'm a first-year Computer Science and Engineering student with a strong interest in software development, problem-solving,
 and emerging technologies.
 
 I enjoy exploring new ideas, building practical applications, and
