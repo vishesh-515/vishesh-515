@@ -66,7 +66,7 @@ Currently exploring:
 
 ## Featured Projects
 
-### 🦷 Elite Dental Clinic — Dental Clinic Website
+### 🦷 Elite Dental Clinic - Dental Clinic Website
 
 A website designed to provide patients with information about
 dental treatments, clinic facilities, consultation services,
