@@ -133,7 +133,6 @@ the developer community, and improving my development workflow.
 
 - **GitHub:** [vishesh-515](https://github.com/vishesh-515)
 - **LinkedIn:** [Vishesh Sachdeva](https://www.linkedin.com/in/vishesh-sachdeva-ab26aa425/)
-- **Portfolio / Project Website:** [Elite Dental Clinic](https://www.elitedentalclinic.info/)
 
 ---
 
