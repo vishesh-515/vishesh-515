@@ -82,6 +82,22 @@ and appointment enquiries.
 
 🌐 **Live Website:** [elitedentalclinic.info](https://www.elitedentalclinic.info/)
 
+### 🤝 Seva Connect - NGO & Non-Profit Beneficiary Management System
+
+A platform designed to streamline NGO operations, manage beneficiaries, track assistance, coordinate volunteers, and ensure financial transparency.
+
+- Developed a centralized system for managing beneficiaries, projects, and support programs.
+- Implemented urgent-case prioritization and smart program matching for efficient assistance distribution.
+- Added donation management, expense tracking, volunteer management, and financial reporting.
+- Integrated role-based access control, team management, and secure data storage using Supabase.
+- Included CSV exports, printable donation acknowledgments, and operational reports.
+
+**Technology:** JavaScript, TypeScript, React, Supabase
+
+🔗 **Repository:** [Seva Connect](https://github.com/vishesh-515/seva-connect)
+
+🌐 **Live Website:** [Seva Connect](https://seva-connect-seven.vercel.app/)
+
 ---
 
 ## Professional Development & Goals
